@@ -1,3 +1,63 @@
+commit 9a9b59d7655bf56e61f52ae833d429fc1f609783
+Author: Michael Karman <mkarman@mymail.mines.edu>
+Date:   Tue Oct 6 11:12:38 2015 -0600
+
+    add .gitignore
+
+commit 245ee22b125a36c502b18928c26bf96c51bc1658
+Merge: f49c197 fa83e3d
+Author: Michael Karman <mkarman@mymail.mines.edu>
+Date:   Tue Oct 6 11:08:11 2015 -0600
+
+    Merge branch 'master' of https://github.com/vramosri/firstGit
+
+commit f49c1978265bfdd33b68f789f0b5aaf38faa0d13
+Author: Michael Karman <mkarman@mymail.mines.edu>
+Date:   Tue Oct 6 11:04:50 2015 -0600
+
+    recommit
+
+commit fa83e3d725a1eed063764c4194a57c0cdddc3b87
+Author: Vanessa Ramos <vramosri@mymail.mines.edu>
+Date:   Tue Oct 6 10:56:52 2015 -0600
+
+    cleanup
+
+commit 4c46260f9e4248cf610d28145bc856dba9ff541f
+Merge: 4497724 1e45949
+Author: Vanessa Ramos <vramosri@mymail.mines.edu>
+Date:   Tue Oct 6 10:53:13 2015 -0600
+
+    Merge branch 'master' of https://github.com/vramosri/firstGit
+
+commit 4497724b8a1e9d94742c7b600c2984bfae6583da
+Merge: 1133c37 4febba1
+Author: Vanessa Ramos <vramosri@mymail.mines.edu>
+Date:   Tue Oct 6 10:48:09 2015 -0600
+
+    Merge branch 'master' of https://github.com/vramosri/firstGit
+    
+    Conflicts:
+    	.gitignore
+
+commit 1e4594953b244a3ac222cbcf8ebddb139cdef309
+Author: mikarman <mkarman@mymail.mines.edu>
+Date:   Sat Oct 3 15:29:30 2015 -0600
+
+    Delete .project
+
+commit b6af1a0961264540a8c1fea4a61d0d7abc78ec20
+Author: mikarman <mkarman@mymail.mines.edu>
+Date:   Sat Oct 3 15:27:34 2015 -0600
+
+    Delete .classpath
+
+commit 1133c37aa5ab432a262b67ef0f432035551b17e4
+Author: Vanessa Ramos <vramosri@mymail.mines.edu>
+Date:   Tue Sep 29 12:00:03 2015 -0600
+
+    Not so beyootiful cat :(
+
 commit 4febba17c9dcf86fbc9c52fb16d76caba38404b6
 Author: Michael Karman <mkarman@mymail.mines.edu>
 Date:   Tue Sep 29 11:57:43 2015 -0600
